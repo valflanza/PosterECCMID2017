@@ -60,3 +60,8 @@ are dependent of the dataset to analyse.  MDST solve these problems with
 a universal system able to classify isolates independently of the
 dataset, with a readable classification system based on phylogenetical
 relations. 
+
+## Repository Information
+
+This data repository contains the files and scripts used for the MDST poster of 
+ECCMID 2017.
