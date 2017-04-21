@@ -1,9 +1,9 @@
 # PosterECCMID2017
-#MDST (Multi Dimensional Sequence Typing): an Universal Sequence Typing
+# MDST (Multi Dimensional Sequence Typing): an Universal Sequence Typing
 
 ## Val F Lanza, Fernando Baquero, Teresa M.Coque. 
 
-###Background
+### Background
 One of the major tasks in microbial epidemiology is
 the need to type the isolates to allow tracking the outbreaks in
 different locations. Up to now the most extensively sequence-based tool
@@ -21,7 +21,7 @@ related sequence types. MDST is a new approach that creates a new
 continuous scheme classification detect phylogenetically relations
 between clones and is applicable to all bacterial organisms.
 
-###Material/Methods
+### Material/Methods
 MDST uses a classification based on genetic distance.
 Taking a set of sequences  as origin of coordinates  (usually 4 to 6
 sequences) MDST calculates the distance from this coordinates to all
@@ -36,7 +36,7 @@ linked by close phylogenetic distances. Particular STs are visualized as
 part of these ensembles, easily recognized in a colour scheme in the
 coordinates landscape.
 
-###Results: 
+### Results: 
 MDST has been applied to three different
 species: Escherichia coli, Enterococcus faecium and Klebsiella
 pneumoniae. MDST grouping and conventional phylogenetic population
@@ -48,7 +48,7 @@ among them. Finally, MDST nomenclature allow performing population
 structure analysis without the necessity to have all the genomic
 sequence data. 
 
-###Conclusions
+### Conclusions
 In the new genomic age, an universal
 designation system at supra-specific, specific, and sub-specific levels
 is mandatory. The old systems as MLST are not enough precise to
